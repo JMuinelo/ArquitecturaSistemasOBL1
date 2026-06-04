@@ -245,10 +245,10 @@
       <a name="labelcolor" val="#000005"/>
       <a name="labelloc" val="center"/>
     </comp>
-    <comp lib="9" loc="(1171,325)" name="Text">
+    <comp lib="9" loc="(1170,325)" name="Text">
       <a name="text" val="pos x"/>
     </comp>
-    <comp lib="9" loc="(1248,331)" name="Text">
+    <comp lib="9" loc="(1245,330)" name="Text">
       <a name="text" val="pos y"/>
     </comp>
     <comp loc="(1240,710)" name="movX">
@@ -611,10 +611,10 @@
     <comp lib="9" loc="(510,250)" name="Text">
       <a name="text" val="x-1 (izq)"/>
     </comp>
-    <comp lib="9" loc="(525,512)" name="Text">
+    <comp lib="9" loc="(525,510)" name="Text">
       <a name="text" val="aca decide si puede moverse o no"/>
     </comp>
-    <comp lib="9" loc="(533,350)" name="Text">
+    <comp lib="9" loc="(530,350)" name="Text">
       <a name="text" val="codificador"/>
     </comp>
     <comp lib="9" loc="(555,190)" name="Text">
@@ -762,10 +762,10 @@
     <comp lib="9" loc="(510,250)" name="Text">
       <a name="text" val="x-1 (izq)"/>
     </comp>
-    <comp lib="9" loc="(525,512)" name="Text">
+    <comp lib="9" loc="(525,510)" name="Text">
       <a name="text" val="aca decide si puede moverse o no"/>
     </comp>
-    <comp lib="9" loc="(533,350)" name="Text">
+    <comp lib="9" loc="(530,350)" name="Text">
       <a name="text" val="codificador"/>
     </comp>
     <comp lib="9" loc="(555,190)" name="Text">
