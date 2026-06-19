@@ -59,7 +59,7 @@
     <a name="circuit" val="main"/>
     <a name="circuitnamedboxfixedsize" val="true"/>
     <a name="clabelup" val="north"/>
-    <a name="simulationFrequency" val="4.0"/>
+    <a name="simulationFrequency" val="2.0"/>
     <comp lib="0" loc="(1090,930)" name="POR"/>
     <comp lib="0" loc="(1140,880)" name="Tunnel">
       <a name="facing" val="east"/>
